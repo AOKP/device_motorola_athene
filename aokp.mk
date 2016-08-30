@@ -26,6 +26,8 @@ $(call inherit-product, vendor/aokp/configs/common_full_phone.mk)
 
 $(call inherit-product-if-exists, vendor/motorola/msm8952/athene/athene-vendor.mk)
 
+$(call inherit-product, device/motorola/athene/twrp.mk)
+
 # Boot animation
 TARGET_BOOTANIMATION_HALF_RES := true
 TARGET_SCREEN_WIDTH := 1080
