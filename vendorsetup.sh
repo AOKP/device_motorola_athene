@@ -1,0 +1,2 @@
+add_lunch_combo aokp_athene-userdebug
+add_lunch_combo aokp_athene-eng
