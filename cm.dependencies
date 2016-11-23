@@ -1,0 +1,39 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "boulzordev/android_kernel_motorola_msm8952",
+    "target_path": "kernel/motorola/msm8952",
+    "revision":    "cm-14.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "boulzordev/proprietary_vendor_motorola_msm8952",
+    "target_path": "vendor/motorola",
+    "revision":    "cm-14.1"
+  },
+  {
+    "target_path": "device/qcom/common",
+    "repository":  "CyanogenMod/android_device_qcom_common",
+    "remote":      "github"
+    "revision":    "cm-14.1"
+  },
+  {
+    "target_path": "external/sony/boringssl-compat",
+    "repository":  "CyanogenMod/android_external_sony_boringssl-compat",
+    "remote":      "github"
+    "revision":    "cm-14.1"
+  },
+  {
+    "target_path": "external/stlport",
+    "repository":  "CyanogenMod/android_external_stlport",
+    "remote":      "github"
+    "revision":    "cm-14.1"
+  },
+  {
+    "target_path": "external/bson",
+    "repository":  "CyanogenMod/android_external_bson",
+    "remote":      "github"
+    "revision":    "cm-14.1"
+  }
+]
+
