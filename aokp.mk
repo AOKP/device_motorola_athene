@@ -40,3 +40,6 @@ PRODUCT_MANUFACTURER := Motorola
 PRODUCT_RELEASE_NAME := athene
 # Device identifier. This must come after all inclusions
 
+PRODUCT_BUILD_PROP_OVERRIDES += \
+    PRODUCT_NAME="Moto G4/G4 Plus"
+
