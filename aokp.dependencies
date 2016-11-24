@@ -24,6 +24,11 @@
     "target_path": "external/bson",
     "repository":  "android_external_bson",
     "remote":      "cm"
+  },
+  {
+    "repository":  "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "remote":      "cm"
   }
 ]
 
