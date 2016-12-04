@@ -8,7 +8,7 @@
   {
     "remote":      "github",
     "repository":  "boulzordev/proprietary_vendor_motorola_msm8952",
-    "target_path": "vendor/motorola",
+    "target_path": "vendor/motorola/athene",
     "branch":      "cm-14.1"
   },
   {
