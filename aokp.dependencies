@@ -1,14 +1,8 @@
 [
   {
-    "remote":      "github",
-    "repository":  "boulzordev/android_kernel_motorola_msm8952",
+    "repository":  "android_kernel_motorola_msm8952",
     "target_path": "kernel/motorola/msm8952",
-    "branch":      "cm-14.1"
-  },
-  {
-    "remote":      "github",
-    "repository":  "boulzordev/proprietary_vendor_motorola_msm8952",
-    "target_path": "vendor/motorola/athene",
+    "remote":      "cm"
     "branch":      "cm-14.1"
   },
   {
